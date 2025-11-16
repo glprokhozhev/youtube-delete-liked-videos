@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Удаляет все видео из "Понравившиеся" с отладкой
-// @author       You
+// @author       glprokhozhev
 // @match        https://www.youtube.com/playlist?list=LL*
 // @grant        none
 // @run-at       document-idle
