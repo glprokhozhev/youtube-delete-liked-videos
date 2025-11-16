@@ -33,7 +33,7 @@
 3. Нажмите красную кнопку в правом верхнем углу
 4. Анализируйте логи в консоли (F12 → Console)
 
-![Пример работы](console-output.png)
+![Пример работы](console.png)
 
 ## ⚠️ Юридический статус
 - **Автор**: [@glprokhozhev](https://github.com/glprokhozhev)
